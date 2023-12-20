@@ -1,2 +1,2 @@
 # Social News
-Formulário de Cadastro feito com HTML e CSS e css-flex
+Formulário de Cadastro feito com HTML, CSS e css-flex
