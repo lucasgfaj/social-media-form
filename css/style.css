@@ -58,6 +58,14 @@ html {
     /* border: 1px solid black; */
 }
 
+.cad-form input {
+    margin: 10px;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0; 
+    border-bottom: 1px solid #72286dd7; 
+}
+
 label {
     font-size: 25px;
     margin-bottom: 10px;
@@ -95,7 +103,9 @@ button:hover {
 }
 
 footer {
+    
 
+    color: #72286dd7;
     bottom: 0;
     position: fixed;
     width: 100%;
